@@ -135,9 +135,9 @@ import "./Footer.css";
 
 const socials = [
   { icon: <FaFacebookF />, url: "https://facebook.com", label: "Facebook" },
-  { icon: <FaYoutube />, url: "https://youtube.com", label: "YouTube" },
-  { icon: <FaLinkedinIn />, url: "https://linkedin.com", label: "LinkedIn" },
-  { icon: <FaInstagram />, url: "https://instagram.com", label: "Instagram" },
+  { icon: <FaYoutube />, url: "https://www.youtube.com/@essentialaquatech", label: "YouTube" },
+  { icon: <FaLinkedinIn />, url: "https://www.linkedin.com/company/essential-aquatech-private-limited/", label: "LinkedIn" },
+  { icon: <FaInstagram />, url: "https://www.instagram.com/essentialaquatech?igsh=MW8wdDFtcXo3ODlmMQ==", label: "Instagram" },
   { icon: <FaXTwitter />, url: "https://x.com", label: "X" },
 ];
 
