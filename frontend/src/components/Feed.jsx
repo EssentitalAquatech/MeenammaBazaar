@@ -35,7 +35,7 @@ const data = [
     category: "Feed",
     name: "Elaang Feed 24P3M",
     image:
-      "https://essentialaquatech.com/wp-content/uploads/2024/09/Elaang-FeedlII.webp",
+      "https://essentialaquatech.com/wp-content/uploads/2024/09/Elaang-Feed-lII.webp",
     size: ["25 KG"],
     price: ["Contact for Price"],
     desc:
@@ -45,7 +45,7 @@ const data = [
     category: "Feed",
     name: "Elaang Feed 20P4M",
     image:
-      "https://essentialaquatech.com/wp-content/uploads/2024/09/Elaang-FeedlV.webp",
+      "https://essentialaquatech.com/wp-content/uploads/2024/09/Elaang-Feed-lV.webp",
     size: ["25 KG"],
     price: ["Contact for Price"],
     desc:

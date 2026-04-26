@@ -40,14 +40,14 @@ const Contact = () => {
             <h5>WhatsApp Chatbot</h5>
             <p>Chat instantly for quick help & support.</p>
 
-            <a
-              href="Whatsapp_bot_Url: https://wa.me/919046226703"
-              target="_blank"
-              rel="noreferrer"
-              className="contact-link-btn"
-            >
-              Click here
-            </a>
+          <a
+  href="https://wa.me/919046226703"
+  target="_blank"
+  rel="noreferrer"
+  className="contact-link-btn"
+>
+  Click here
+</a>
           </div>
         </div>
 

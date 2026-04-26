@@ -200,11 +200,11 @@ const data = [
     desc:
       "Elaang Fish Feed 28% Protein, 3% Fat, Pellet Size 2mm. Feed For IMC, Pangasius, Roopchand, Tilapia, Catfish. ",
   },
-  {
+   {
     category: "Feed",
     name: "Elaang Feed 24P3M",
     image:
-      "https://essentialaquatech.com/wp-content/uploads/2024/09/Elaang-FeedlII.webp",
+      "https://essentialaquatech.com/wp-content/uploads/2024/09/Elaang-Feed-lII.webp",
     size: ["25 KG"],
     price: ["Contact for Price"],
     desc:
@@ -214,12 +214,14 @@ const data = [
     category: "Feed",
     name: "Elaang Feed 20P4M",
     image:
-      "https://essentialaquatech.com/wp-content/uploads/2024/09/Elaang-FeedlV.webp",
+      "https://essentialaquatech.com/wp-content/uploads/2024/09/Elaang-Feed-lV.webp",
     size: ["25 KG"],
     price: ["Contact for Price"],
     desc:
       "Elaang Fish Feed 20% Protein, 4% Fat, Pellet Size 4mm. Feed For IMC, Pangasius, Roopchand, Tilapia, Catfish. ",
   },
+
+ 
 
 ]
 
