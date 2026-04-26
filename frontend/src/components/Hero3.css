@@ -1,0 +1,103 @@
+.hero3-section {
+  min-height: auto;
+  padding: 60px 20px 70px 20px; /* 🔥 bottom padding बढ़ाया */
+  background: linear-gradient(to bottom, #f5fbff 0%, #cfe9f7 100%); /* 🔥 darker + premium look */
+  margin-top: 100px;
+}
+
+/* Heading */
+.hero3-header h1 {
+  font-size: 44px;
+  font-weight: 700;
+  color: #111;
+}
+
+.hero3-header p {
+  font-size: 16px;
+  color: #555;
+  margin-top: 10px;
+  margin-bottom: 60px;
+}
+
+.highlight {
+  color: #f5b301;
+}
+
+/* Row spacing */
+.hero3-row {
+  margin-top: 30px;
+}
+
+/* Card */
+.hero3-card {
+  background: #fff;
+  height: 140px;
+  width: 100%;
+  padding: 18px 15px;
+  border-radius: 18px;
+  box-shadow: 0 10px 25px rgba(0,0,0,0.08);
+  opacity: 0;
+  transform: translateY(40px);
+  transition: all 0.6s ease;
+}
+
+/* Show animation */
+.hero3-card.show {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+/* Different entry directions */
+.from-left {
+  transform: translateX(-80px);
+}
+.from-right {
+  transform: translateX(80px);
+}
+.from-top {
+  transform: translateY(-80px);
+}
+.from-bottom {
+  transform: translateY(80px);
+}
+
+/* circle */
+.circle {
+  width: 45px;
+  height: 45px;
+  background: #0ea5e9;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0 auto 8px auto;
+  color: white;
+  font-weight: bold;
+}
+
+/* text */
+.hero3-card h5 {
+  font-weight: 600;
+  margin-bottom: 5px;
+}
+
+.hero3-card p {
+  font-size: 13px;
+  color: #666;
+}
+
+/* Hover */
+.hero3-card:hover {
+  transform: scale(1.03);
+}
+
+/* RESPONSIVE */
+@media (max-width: 768px) {
+  .hero3-card {
+    height: 160px;
+  }
+
+  .hero3-header h1 {
+    font-size: 32px;
+  }
+}
