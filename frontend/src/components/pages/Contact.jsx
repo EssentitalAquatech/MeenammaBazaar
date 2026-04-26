@@ -93,7 +93,7 @@ const Contact = () => {
       rel="noreferrer"
       className="contact-link-btn"
     >
-      Click here
+      Location
     </a>
   </div>
 </div>
