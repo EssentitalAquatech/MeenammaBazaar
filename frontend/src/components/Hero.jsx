@@ -133,8 +133,8 @@ function Hero() {
     </button>
 
         
-          <a
-  href="Whatsapp_bot_Url: https://wa.me/919046226703"
+<a
+  href="https://wa.me/919046226703"
   target="_blank"
   rel="noopener noreferrer"
 >
