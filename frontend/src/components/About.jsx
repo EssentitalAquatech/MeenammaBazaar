@@ -29,7 +29,7 @@ const About = () => {
 
       {/* Heading */}
       <h1 className="about-main-title about-animate about-fade-down">
-        About Minima <span className="about-highlight-yellow-text">Bazar</span>
+        About Meenamma <span className="about-highlight-yellow-text">Bazar</span>
       </h1>
 
       {/* Sub Heading */}
